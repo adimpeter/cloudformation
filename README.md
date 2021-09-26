@@ -1,3 +1,3 @@
 # cloudformation
-This repo contains some of my clouformation test templates.
-Feel free to use it if you want.
+- This repo contains some of my cloudformation templates.
+- Feel free to use it if you want.
